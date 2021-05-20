@@ -1,0 +1,6 @@
+<script>
+			function f1(){
+				var area = document.getElementsByClassName("special");
+				area.style.backgroundcolor = yellow;
+			}
+		</script>
